@@ -1,3 +1,4 @@
+@import url(../vendor/normalize.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
@@ -20,7 +21,6 @@
 @import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/oakley/oakley.css);
-@import url(../blocks/oakley/__two-columns/oakley__two-columns.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/resources/resources__logo/resources__logo.css);
 @import url(../blocks/resources/resources.css);
