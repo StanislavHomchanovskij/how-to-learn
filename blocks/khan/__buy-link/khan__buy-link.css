@@ -5,6 +5,7 @@
   text-decoration: none;
   color: #2f80ed;
   margin-left: 46px;
+  align-self: flex-start;
   opacity: 1;
   transition: 1s;
 }
